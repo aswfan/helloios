@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					9D29D65F1E915F1100B5B3C6 = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = K37Q3WUP4T;
 						ProvisioningStyle = Automatic;
 					};
 					9D29D6731E915F1100B5B3C6 = {
@@ -355,7 +356,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -399,7 +400,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
@@ -412,8 +413,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = K37Q3WUP4T;
 				INFOPLIST_FILE = "Hello-iOS/Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.imyyfan.Hello-iOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -426,8 +428,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = K37Q3WUP4T;
 				INFOPLIST_FILE = "Hello-iOS/Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.imyyfan.Hello-iOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -509,6 +512,7 @@
 				9D29D68A1E915F1100B5B3C6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9D29D68B1E915F1100B5B3C6 /* Build configuration list for PBXNativeTarget "Hello-iOSTests" */ = {
 			isa = XCConfigurationList;
@@ -517,6 +521,7 @@
 				9D29D68D1E915F1100B5B3C6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9D29D68E1E915F1100B5B3C6 /* Build configuration list for PBXNativeTarget "Hello-iOSUITests" */ = {
 			isa = XCConfigurationList;
@@ -525,6 +530,7 @@
 				9D29D6901E915F1100B5B3C6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
